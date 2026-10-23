@@ -4,6 +4,9 @@ All notable changes to Phantom are documented here. The format follows [Keep a C
 
 ## [Unreleased]
 
+### Fixed
+- Preserve instruction-specific messages when capability checks fail, including all missing capabilities.
+
 ### Documentation
 - Add Hindi translations of the README and Quickstart guide.
 
